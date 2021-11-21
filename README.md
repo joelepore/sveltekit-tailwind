@@ -1,5 +1,7 @@
 # sveltekit-tailwind 
 
+![sveltekit-tailwind welcome page screenshot](https://image.prntscr.com/image/Da3JNjs2TtSBUN1HL4EzFw.png)
+
 Everything you need to build a [SvelteKit](https://kit.svelte.dev/) + [TailwindCSS](https://tailwindcss.com/) project.
 
 Created by a combination of the official [SvelteKit `create-svelte`](https://kit.svelte.dev/) and [`svelte-add/tailwindcss`](https://github.com/svelte-add/tailwindcss).
