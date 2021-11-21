@@ -6,7 +6,7 @@ Everything you need to build a [SvelteKit](https://kit.svelte.dev/) + [TailwindC
 
 Created by a combination of the official [SvelteKit `create-svelte`](https://kit.svelte.dev/) and [`svelte-add/tailwindcss`](https://github.com/svelte-add/tailwindcss).
 
-## Installing
+## Creating a project
 ```bash
 npx degit joelepore/sveltekit-tailwind my-project
 cd my-project
